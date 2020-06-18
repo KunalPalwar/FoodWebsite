@@ -11,5 +11,18 @@ img{
 .show-image{
     display:inline-block;
     width:30%;
-    box-shadow: 0px 2px 15px rgba(0,0,0,0.3);
+    box-shadow: 0px 10px 15px rgba(0,0,0,0.3);
+    border-radius:5px;
+    overflow:hidden;
+    margin:10px;
+}
+.show-image p{
+    color:black;
+    text-shadow: none;
+    font-weight: 700;
+    
+    
+    
+    text-align:center;
+    
 }
