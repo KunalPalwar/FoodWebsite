@@ -3,3 +3,13 @@ a{
     text-shadow:none;
     color: darkgreen;
 }
+img{
+    
+    width: 100%;
+    height: auto;
+}
+.show-image{
+    display:inline-block;
+    width:30%;
+    box-shadow: 0px 2px 15px rgba(0,0,0,0.3);
+}
